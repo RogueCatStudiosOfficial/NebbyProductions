@@ -1,4 +1,6 @@
-<-- I am the Happiest, yet most stressed out, girl alive! -->
+<b/> <-- I am the Happiest, yet most stressed out, girl alive! -->
+
+-------------------------------------------------------------------
 
 Software that I use:
 
@@ -11,6 +13,7 @@ DAW: Steinberg Cubase 12, FL Studio 21, Famitracker
 Notation Software: AVID Sibelius, MuseScore 4
 Sampler: NI KONTAKT, NI BATTERY 4
 
+-------------------------------------------------------------------
 
 Currently working on 2 Games. Both using Unity
 
